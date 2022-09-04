@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
+Template Name: Solomon
+Template URL: 
+Author: Solomon Rotich
 License: https://bootstrapmade.com/license/
